@@ -1,7 +1,7 @@
 ### 🚀 Install Terraform on Ubuntu
 
-Copy and paste the following command into your terminal:
-
-```bash
-curl -sSL https://raw.githubusercontent.com/AlexandrNeverov/terraform1/main/instal_u.sh | bash
+<pre>
 ```
+https://raw.githubusercontent.com/AlexandrNeverov/terraform1/refs/heads/main/instal_u.sh?token=GHSAT0AAAAAADECDXVWVQJLNL5SH22QA2ES2BWJCGA
+```
+</pre>
